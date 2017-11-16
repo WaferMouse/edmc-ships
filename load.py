@@ -151,6 +151,8 @@ def plugin_app(parent):
   plugin_app.collapser.pack(fill="x", expand=1, pady=2, padx=2, anchor="n")
   plugin_app.scrolly = VerticalScrolledFrame(plugin_app.collapser.sub_frame)
   plugin_app.scrolly.grid(row=0, column = 0, columnspan = 2)
+  temp_label = tk.Label(plugin_app.scrolly.interior, text = "Click 'Update' to see your ships.", justify=tk.LEFT, anchor=tk.W, pady=0)
+  temp_label.pack()
   print "Ships loaded"
   return (plugin_app.frame)
 

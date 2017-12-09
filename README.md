@@ -8,6 +8,6 @@ Features:
 
 # Install
 
-To download, just click on "Clone or download" and download the zip.
-
-To install it, follow the instructions on the EDMC Github page: https://github.com/Marginal/EDMarketConnector#plugins
+1. On EDMC's Plugins settings tab press the Open button. This reveals the plugins folder where EDMC looks for plugins.
+2. Download the latest release.
+3. Open the .zip archive that you downloaded and move the edmc-ships-master folder contained inside into the plugins folder.

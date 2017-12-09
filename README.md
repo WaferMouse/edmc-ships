@@ -9,5 +9,5 @@ Features:
 # Install
 
 1. On EDMC's Plugins settings tab press the Open button. This reveals the plugins folder where EDMC looks for plugins.
-2. Download the latest release.
+2. Download the [latest release](https://github.com/WaferMouse/edmc-ships/releases).
 3. Open the .zip archive that you downloaded and move the edmc-ships-master folder contained inside into the plugins folder.

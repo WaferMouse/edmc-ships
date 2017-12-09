@@ -2,10 +2,10 @@
 A plugin for finding your stored ships easily using Elite: Dangerous Market Connector (EDMC)
 
 Features:
-* A list of your stored ships and their location when you click "Update"
-* List stays up-to-date even when you transfer ships
-* Left-click on a ship to view the location in EDSM
-* Right-click for a menu where you can copy the location to the clipboard
+* A list of your stored ships and their location when you click "Update".
+* List stays up-to-date even when you transfer ships. **NOTE** Ships that you transferred before installing the plugin and have not piloted yet will appear in their old location.
+* Left-click on a ship to view the location in EDSM.
+* Right-click for a menu where you can copy the location to the clipboard.
 
 # Install
 

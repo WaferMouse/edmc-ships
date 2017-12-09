@@ -297,6 +297,7 @@ def cmdr_data(data, is_beta):
         del ships[ship]["station"]["id"]
         del ships[ship]["value"]
         del ships[ship]["free"]
+        write_file = True
   if write_file:
     update_gui()
     update_file()

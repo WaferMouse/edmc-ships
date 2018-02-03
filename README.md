@@ -1,3 +1,6 @@
+# WARNING
+This plugin breaks if used on multiple accounts, or when using multi-crew.  Use my [new plugin](https://github.com/WaferMouse/edmc-WaferMFD) instead.
+
 # edmc-ships
 A plugin for finding your stored ships easily using Elite: Dangerous Market Connector (EDMC)
 
